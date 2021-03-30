@@ -12,7 +12,7 @@
 - 🌱 I’m currently: **trying my hands on JS based small projects**
 - 👯 I’m looking to collaborate on: **Any kind of Applied Java and ML Project**
 
-// - 📝 Have a look at my: **[Resume](https://github.com/)**
+// - 📝 Have a look at my: **[Resume](https://github.com/mohit-gupta/resume_mohit.pdf)**
 
 <h2 align="center">:crossed_swords: Weapons of Choice :crossed_swords:</h2>
 
